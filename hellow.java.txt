@@ -1,1 +1,3 @@
 Hellow world demo
+
+New lines added to class file
